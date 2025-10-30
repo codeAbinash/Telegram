@@ -1,0 +1,7 @@
+{
+  "name": "Telegram Android Dev",
+  "dockerFile": "Dockerfile",  
+  "features": {
+    "ghcr.io/nordcominc/devcontainer-features/android-sdk:1": {}
+  }
+}
